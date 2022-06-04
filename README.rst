@@ -1,7 +1,7 @@
 Python Docs Sphinx Theme
 =========================
 
-This is the theme for the Python documentation.
+This is the theme for the Python documentation. Forked for toppy documentation.
 
 Note that when adopting this theme, you're also borrowing an element of the
 trust and credibility established by the CPython core developers over the
