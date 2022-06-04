@@ -14,7 +14,7 @@ setup(
     # Version is date based as year.month[.serial], where serial is used
     # if multiple releases are needed to address build failures.
     version="2022.1",
-    description="The Sphinx theme for the CPython docs and related projects",
+    description="The Sphinx theme for the CPython docs and related projects. Forked for toppy documentation.",
     long_description=long_description,
     author="PyPA",
     author_email="distutils-sig@python.org",
